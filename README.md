@@ -2010,4 +2010,20 @@ I suspect LinkedIn sends viruses via the account verification link. It seems imm
 If you don't believe me, try to use my name to create a LinkedIn account with my employment history, the keep applying for software engineer or management job listings on LinkedIn and see what happens. You should get restricted in less than a week.
 The same thing happened to me on Facebook. The account with my real name is restricted for no apparent reason. LOL
 
+06/11/2025
+To
+TechRecruiting <TechRecruiting@bnsf.com>
+
+
+
+I just completed the test. 
+
+
+Re: bnsf|tech Req 93710 job application: technical assessment
+
+
+However, the test was pretty frustrating due to technical issues. It didn’t let me select more than one answer on questions that clearly needed multiple choices. Also, the Terraform code was correct, but it still failed some of tests because of an indentation issue in the given file “cloud-config.yaml.tpl” — which I wasn’t allowed to edit anyway. 
+
+I got recordings if you need a proof.
+
 
