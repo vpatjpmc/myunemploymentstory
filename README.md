@@ -1,5 +1,5 @@
 # myunemploymentstory
-choose to stand for myself and fight for my right to work and live as an American!🇺🇸Those who wrongfully laid me off and unlawfully unethically prevented me from being hired will be held accountable for their wrongdoings.
+I choose to stand for myself and fight for my right to work and live as an American!🇺🇸Those who wrongfully laid me off and unlawfully unethically prevented me from being hired will be held accountable for their wrongdoings.
 I have been unemployed for two years, largely due to consistently encountering biased and rigged technical interviews designed to exclude qualified candidates.
 
 Trace back:
